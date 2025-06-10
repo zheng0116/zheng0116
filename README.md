@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there 👋  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zheng0116&show_icons=true&theme=transparent" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zheng0116&theme=graywhite" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zheng0116&theme=transparent" />
 </div>
 <!--
 **zheng0116/zheng0116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.      
