@@ -1,16 +1,14 @@
 ## Hi there 👋  
-![Stackzheng's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zheng0116&count_private=true&show_icons=true&theme=transparent)  
-<!--
-**zheng0116/zheng0116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.      
 
-Here are some ideas to get you started:
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=zheng0116&show_icons=true&theme=transparent" alt="Stackzheng's GitHub Stats" />  
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zheng0116&layout=compact&hide=html,css&theme=transparent" alt="Most Used Languages" />  
+    </td>
+  </tr>
+</table>
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
